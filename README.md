@@ -1,4 +1,4 @@
-# XDC Explorer Accounts Micorservice #
+# XDC Explorer Accounts Microservice #
 
 ### Usage ###
 
